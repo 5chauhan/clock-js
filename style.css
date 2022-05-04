@@ -4,12 +4,6 @@
 	box-sizing: border-box;
 }
 
-.hd{
-    position: relative;
-    top: 0px;
-    border: 20px;
-    
-}
 
 body {
 	background: linear-gradient(to right, rgb(158, 238, 112), rgb(14, 15, 51));
